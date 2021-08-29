@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/homeFragment"/>
+    <item
+        android:title="Users"
+        android:icon="@drawable/ic_baseline_user_24"
+        android:id="@+id/usersFragment"/>
+    <item
+        android:title="Leaders"
+        android:icon="@drawable/ic_baseline_supervised_leaders_circle_24"
+        android:id="@+id/leadersFragment"/>
+    <item
+        android:title="Courses"
+        android:icon="@drawable/ic_baseline_courses_24"
+        android:id="@+id/coursesFragment"/>
+    <item
+        android:title="More"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:id="@+id/moreFragment"/>/>
+</menu>
